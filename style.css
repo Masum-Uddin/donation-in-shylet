@@ -9,16 +9,22 @@ body{font-family: 'Poppins', sans-serif;
      height: 600px;
      padding-top: 5px;
      margin: auto 0;}
-.topbanner h1{text-align: center;
+.topbanner span{
+     color: orange;}
+.topbanner h1{
+     text-align: center;
      font-size: 70px;
-     color: rgb(21, 255, 0);
+    color: rgb(228, 173, 71);
      margin-top: 10%;}   
-.topbanner p{text-align: center;
-     color: rgb(197, 240, 169);
+.topbanner p{
+     text-align: center;
+     color: rgb(243, 247, 241);
      margin: 5%;
      font-size: 20px;}
-.button{font-size: 25px;}
-.top-button{text-align: center;
+.button{
+     font-size: 25px;}
+.top-button{
+     text-align: center;
      margin-left: 45%;
      padding: 15px 32px;
      text-decoration: none;
@@ -47,7 +53,8 @@ body{font-family: 'Poppins', sans-serif;
      background-color: rgb(245, 179, 179);
      color: rgb(237, 70, 70);
      border: 2px solid salmon;}
-.center-div h3{border-bottom: 1px solid rgb(205, 202, 202);
+.center-div h3{
+     border-bottom: 1px solid rgb(205, 202, 202);
      margin-left: 450px;
      text-align: center;
      margin-right: 450px;
@@ -57,10 +64,12 @@ body{font-family: 'Poppins', sans-serif;
      padding-bottom: 1%;}
 .center-div h1{
      margin-top: 5%;}
-.center-button{color: white;
-     background-color: green;
+.center-button{
+     color:aliceblue;
+     background-image: linear-gradient(rgb(99, 207, 99),green);
      border: none;
-     padding: 15px 32px;
+     font-size: 20px;
+     padding: 10px 20px;
      border-radius: 10px;
      margin-top: 5%;
      margin-bottom: 2%;}
@@ -71,29 +80,29 @@ body{font-family: 'Poppins', sans-serif;
      width: 100%;
      padding-top: 5%;}
 .middel-section{
-   margin: 2% 2%;
+     margin: 2% 2%;
      text-align: center;}
 .middel-h1{
      font-size: 60px;
      font-weight: bold;
      color: rgba(66, 62, 62, 0.69);}
-.middel-section p{margin: 0 20%;
-}
+.middel-section p{
+     margin: 0 20%;}
 .middel-divv{    
-     box-shadow: 20px 20px 20px gray;
+     box-shadow: 20px 20px 40px gray;
      padding-top: 20px;
      background: cornsilk;
      margin-right: 20px;
      border-radius: 15px;}
 .middel-divvv{
-     box-shadow: 20px 20px 20px gray;
+     box-shadow: 20px 20px 40px gray;
      padding-top: 20px;
      margin-right: 20px;
      background-color: azure;
      margin-left: 15px;
      border-radius: 15px;}
 .middel-divvvv{
-     box-shadow: 20px 20px 20px gray;
+     box-shadow: 20px 20px 40px gray;
      padding-top: 20px;
      background-color: bisque;
      margin-left: 20px;
@@ -123,10 +132,13 @@ body{font-family: 'Poppins', sans-serif;
 .half_with p
      {font-size: 20px;
      padding-top: 5%;}
-
+.half_with ul{color: rgb(139, 116, 116);
+     font-size: 20px;}
 .half_with img{
      width: 90%;
      border-radius: 5px;}
+.cover{background-size:cover ;
+     margin-left: 95px;}     
 
      /* 5th part */
 
